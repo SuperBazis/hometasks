@@ -1,0 +1,12 @@
+#teststring = '1234321'
+teststring = 'adfdfghf'
+isPol = True
+charCount = len(teststring)
+middle = charCount//2
+#print(middle)
+for i in range(middle):
+    if teststring[i] != teststring[-i-1]:
+        isPol = False
+        break
+
+print('String is polydrom') if isPol else print('String is not polydrom')
