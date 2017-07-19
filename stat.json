@@ -1,0 +1,211 @@
+{
+    "SNAPSHOT 19": {
+        "ReceiveNet": 1173,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18781,
+        "ReadDisk": 3199,
+        "CPU": 5.0,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:32:12",
+        "MemoryUsed": 2653,
+        "MemoryAvailable": 12295
+    },
+    "SNAPSHOT 11": {
+        "CPU": 2.6,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18756,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:31:18",
+        "MemoryUsed": 2648,
+        "MemoryAvailable": 12312
+    },
+    "SNAPSHOT 8": {
+        "CPU": 2.6,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18740,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:31:03",
+        "MemoryUsed": 2645,
+        "MemoryAvailable": 12320
+    },
+    "SNAPSHOT 5": {
+        "CPU": 2.5,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18738,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:30:47",
+        "MemoryUsed": 2643,
+        "MemoryAvailable": 12314
+    },
+    "SNAPSHOT 3": {
+        "CPU": 2.5,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18736,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:30:37",
+        "MemoryUsed": 2643,
+        "MemoryAvailable": 12324
+    },
+    "SNAPSHOT 15": {
+        "ReceiveNet": 1173,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18777,
+        "ReadDisk": 3199,
+        "CPU": 15.0,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:31:52",
+        "MemoryUsed": 2652,
+        "MemoryAvailable": 12298
+    },
+    "SNAPSHOT 2": {
+        "CPU": 9.5,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18735,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:30:32",
+        "MemoryUsed": 2641,
+        "MemoryAvailable": 12333
+    },
+    "SNAPSHOT 6": {
+        "CPU": 5.0,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18739,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:30:52",
+        "MemoryUsed": 2644,
+        "MemoryAvailable": 12321
+    },
+    "SNAPSHOT 14": {
+        "CPU": 2.6,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18759,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:31:47",
+        "MemoryUsed": 2651,
+        "MemoryAvailable": 12300
+    },
+    "SNAPSHOT 13": {
+        "CPU": 2.5,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18757,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:31:28",
+        "MemoryUsed": 2649,
+        "MemoryAvailable": 12303
+    },
+    "SNAPSHOT 1": {
+        "CPU": 7.3,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18735,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:30:27",
+        "MemoryUsed": 2639,
+        "MemoryAvailable": 12334
+    },
+    "SNAPSHOT 4": {
+        "CPU": 4.9,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18738,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:30:42",
+        "MemoryUsed": 2643,
+        "MemoryAvailable": 12314
+    },
+    "SNAPSHOT 7": {
+        "CPU": 2.5,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18740,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:30:58",
+        "MemoryUsed": 2644,
+        "MemoryAvailable": 12320
+    },
+    "SNAPSHOT 18": {
+        "CPU": 2.5,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18781,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:32:07",
+        "MemoryUsed": 2653,
+        "MemoryAvailable": 12296
+    },
+    "SNAPSHOT 12": {
+        "CPU": 2.5,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18756,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:31:23",
+        "MemoryUsed": 2649,
+        "MemoryAvailable": 12303
+    },
+    "SNAPSHOT 9": {
+        "CPU": 2.5,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18755,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:31:08",
+        "MemoryUsed": 2646,
+        "MemoryAvailable": 12319
+    },
+    "SNAPSHOT 16": {
+        "CPU": 2.5,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18778,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:31:57",
+        "MemoryUsed": 2652,
+        "MemoryAvailable": 12298
+    },
+    "SNAPSHOT 17": {
+        "ReceiveNet": 1173,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18780,
+        "ReadDisk": 3199,
+        "CPU": 5.0,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:32:02",
+        "MemoryUsed": 2653,
+        "MemoryAvailable": 12297
+    },
+    "SNAPSHOT 10": {
+        "CPU": 2.5,
+        "MemoryTotal": 15762,
+        "WriteDisk": 18755,
+        "ReadDisk": 3199,
+        "ReceiveNet": 1173,
+        "SentNet": 264,
+        "Timestamp": "2017-07-19 19:31:13",
+        "MemoryUsed": 2646,
+        "MemoryAvailable": 12320
+    }
+}
