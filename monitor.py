@@ -45,11 +45,11 @@ if type == 'json':
             pythonDictionary = {snapVar:{'Timestamp':dateVar,'CPU':cpuVar,'MemoryAvailable':memAvVar,'MemoryUsed':memUsVar,\
                                         'MemoryTotal':memTotVar, 'ReadDisk':rDisk, 'WriteDisk':wDisk, 'SentNet':sNet, 'ReceiveNet':rNet}}
             json.dump(pythonDictionary,fo, indent=4)
-            fo.close()
+
         else:
             with open('stat.json') as f:
                 data = json.load(f)
-                
+
             snapVar = 'SNAPSHOT {}'.format(len(data) + 1)
             dateVar = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             cpuVar = psutil.cpu_percent(interval=0.1)
@@ -68,4 +68,5 @@ if type == 'json':
 
             with open('stat.json', 'w') as f:
                 json.dump(data, f, indent=4)
+        fo.close()
         time.sleep(min*60)
